@@ -7,10 +7,12 @@ Skypey is a small one page chat application.
 All the chats, contacts, names, and avatars are generated using [faker](https://www.npmjs.com/package/faker) and [txtgen](https://www.npmjs.com/package/txtgen)
 
 You can view messages sent by your contacts.
-
+![View Message Gif](https://raw.githubusercontent.com/sulphurgfx/Skypey/master/ezgif.com-video-to-gif%20(1).gif)
 
 
 You can send messsages by clicking on any of the contacts in the contact list, and entering a message.
+
+![Send Message Gif](https://raw.githubusercontent.com/sulphurgfx/Skypey/master/ezgif.com-video-to-gif.gif)
 
 
 
