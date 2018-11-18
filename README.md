@@ -3,7 +3,7 @@ This project is built with [React](https://reactjs.org/) and [Redux](https://red
 
 ## Introduction
 
-Skypey is a small one page chat application.
+Skypey is a small one page chat application.<br>
 All the chats, contacts, names, and avatars are generated using [faker](https://www.npmjs.com/package/faker) and [txtgen](https://www.npmjs.com/package/txtgen)
 
 ### You can view messages sent by your contacts.
