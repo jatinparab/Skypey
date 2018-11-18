@@ -18,6 +18,6 @@ store.subscribe(render);
 serviceWorker.register();
 
 function fancyLog() {
-    console.log("%c Rendered with 👉 👉👇", "background: purple; color: #fff");
+  //  console.log("%c Rendered with 👉 👉👇", "background: purple; color: #fff");
     console.log(store.getState());
   }
